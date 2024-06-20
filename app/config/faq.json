@@ -1,0 +1,310 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "title": "What is eSTOKK",
+            "image": "home.png",
+            "desc": "Revolutionizing Ownership with Tokenized Real Estate.",
+            "number": "5",
+            "subtitle": [
+                {
+                    "id": "1",
+                    "smallTitle":"What is eSTOKK?",
+                    "content": "content"
+                },
+                {
+                    "id": "2",
+                    "smallTitle": "The bebefilts of tokenize real estate?",
+                    "content": "content"
+                },
+                {
+                    "id": "3",
+                    "smallTitle": "eSTOKK fully compliant US Security Tokens",
+                    "content": "content"
+                },
+                {
+                    "id": "4",
+                    "smallTitle" : "Can I set up a business account to purchase Tokens?",
+                    "content" : "content"
+                },
+                {
+                    "id": "5",
+                    "smallTitle": "Who can invest with eSTOKK?",
+                    "content": "content"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "How does eSTOKK Function?",
+            "image": "gear.png",
+            "desc": "Transforming Real-World Assets Through Tokenization.",
+            "number": "5",
+            "subtitle": [
+                {
+                    "id": "1",
+                    "smallTitle":"What is eSTOKK?",
+                    "content": "content"
+                },
+                {
+                    "id": "2",
+                    "smallTitle": "The bebefilts of tokenize real estate?",
+                    "content": "content"
+                },
+                {
+                    "id": "3",
+                    "smallTitle": "eSTOKK fully compliant US Security Tokens",
+                    "content": "content"
+                },
+                {
+                    "id": "4",
+                    "smallTitle" : "Can I set up a business account to purchase Tokens?",
+                    "content" : "content"
+                },
+                {
+                    "id": "5",
+                    "smallTitle": "Who can invest with eSTOKK?",
+                    "content": "content"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Gettings Started with eSTOKK",
+            "image": "man.png",
+            "desc": "Sing Up and Being Your investment Jurney.",
+            "number": "5",
+            "subtitle": [
+                {
+                    "id": "1",
+                    "smallTitle":"What is eSTOKK?",
+                    "content": "content"
+                },
+                {
+                    "id": "2",
+                    "smallTitle": "The bebefilts of tokenize real estate?",
+                    "content": "content"
+                },
+                {
+                    "id": "3",
+                    "smallTitle": "eSTOKK fully compliant US Security Tokens",
+                    "content": "content"
+                },
+                {
+                    "id": "4",
+                    "smallTitle" : "Can I set up a business account to purchase Tokens?",
+                    "content" : "content"
+                },
+                {
+                    "id": "5",
+                    "smallTitle": "Who can invest with eSTOKK?",
+                    "content": "content"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Our Properties at eSTOKK",
+            "image": "hous.png",
+            "desc": "All you need to Know About our Tokenized Real Estate Properties.",
+            "number": "5",
+            "subtitle": [
+                {
+                    "id": "1",
+                    "smallTitle":"What is eSTOKK?",
+                    "content": "content"
+                },
+                {
+                    "id": "2",
+                    "smallTitle": "The bebefilts of tokenize real estate?",
+                    "content": "content"
+                },
+                {
+                    "id": "3",
+                    "smallTitle": "eSTOKK fully compliant US Security Tokens",
+                    "content": "content"
+                },
+                {
+                    "id": "4",
+                    "smallTitle" : "Can I set up a business account to purchase Tokens?",
+                    "content" : "content"
+                },
+                {
+                    "id": "5",
+                    "smallTitle": "Who can invest with eSTOKK?",
+                    "content": "content"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Buying eSTOKENS",
+            "image": "round.png",
+            "desc": "Simplifying Security Token Offerings.",
+            "number": "5",
+            "subtitle": [
+                {
+                    "id": "1",
+                    "smallTitle":"What is eSTOKK?",
+                    "content": "content"
+                },
+                {
+                    "id": "2",
+                    "smallTitle": "The bebefilts of tokenize real estate?",
+                    "content": "content"
+                },
+                {
+                    "id": "3",
+                    "smallTitle": "eSTOKK fully compliant US Security Tokens",
+                    "content": "content"
+                },
+                {
+                    "id": "4",
+                    "smallTitle" : "Can I set up a business account to purchase Tokens?",
+                    "content" : "content"
+                },
+                {
+                    "id": "5",
+                    "smallTitle": "Who can invest with eSTOKK?",
+                    "content": "content"
+                }
+            ]  
+        },
+        {
+            "id": "6",
+            "title": "Cashing in My Rent",
+            "image": "money.png",
+            "desc": "Receiving my weekly rental distribution effortless by holding eSTOKEN.",
+            "number": "5",
+            "subtitle": [
+                {
+                    "id": "1",
+                    "smallTitle":"What is eSTOKK?",
+                    "content": "content"
+                },
+                {
+                    "id": "2",
+                    "smallTitle": "The bebefilts of tokenize real estate?",
+                    "content": "content"
+                },
+                {
+                    "id": "3",
+                    "smallTitle": "eSTOKK fully compliant US Security Tokens",
+                    "content": "content"
+                },
+                {
+                    "id": "4",
+                    "smallTitle" : "Can I set up a business account to purchase Tokens?",
+                    "content" : "content"
+                },
+                {
+                    "id": "5",
+                    "smallTitle": "Who can invest with eSTOKK?",
+                    "content": "content"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "title": "Selling My eSTOKENs",
+            "image": "group.png",
+            "desc": "Acess a Liquid Secondary Market for Security Tokens or Opt for Direct Selling on Our Website.",
+            "number": "5",
+            "subtitle": [
+                {
+                    "id": "1",
+                    "smallTitle":"What is eSTOKK?",
+                    "content": "content"
+                },
+                {
+                    "id": "2",
+                    "smallTitle": "The bebefilts of tokenize real estate?",
+                    "content": "content"
+                },
+                {
+                    "id": "3",
+                    "smallTitle": "eSTOKK fully compliant US Security Tokens",
+                    "content": "content"
+                },
+                {
+                    "id": "4",
+                    "smallTitle" : "Can I set up a business account to purchase Tokens?",
+                    "content" : "content"
+                },
+                {
+                    "id": "5",
+                    "smallTitle": "Who can invest with eSTOKK?",
+                    "content": "content"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "title": "Secure Storage Solutions",
+            "image": "phone.png",
+            "desc": "Hold your eSTOKKENs and rental distributions with secure wallets andasset storage solutions.",
+            "number": "5",
+            "subtitle": [
+                {
+                    "id": "1",
+                    "smallTitle":"What is eSTOKK?",
+                    "content": "content"
+                },
+                {
+                    "id": "2",
+                    "smallTitle": "The bebefilts of tokenize real estate?",
+                    "content": "content"
+                },
+                {
+                    "id": "3",
+                    "smallTitle": "eSTOKK fully compliant US Security Tokens",
+                    "content": "content"
+                },
+                {
+                    "id": "4",
+                    "smallTitle" : "Can I set up a business account to purchase Tokens?",
+                    "content" : "content"
+                },
+                {
+                    "id": "5",
+                    "smallTitle": "Who can invest with eSTOKK?",
+                    "content": "content"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "title": "Understanding the Blockchain",
+            "image": "token.png",
+            "desc": "A comprehensive guide to Navigating and Operating on the blockchain.",
+            "number": "5",
+            "subtitle": [
+                {
+                    "id": "1",
+                    "smallTitle":"What is eSTOKK?",
+                    "content": "content"
+                },
+                {
+                    "id": "2",
+                    "smallTitle": "The bebefilts of tokenize real estate?",
+                    "content": "content"
+                },
+                {
+                    "id": "3",
+                    "smallTitle": "eSTOKK fully compliant US Security Tokens",
+                    "content": "content"
+                },
+                {
+                    "id": "4",
+                    "smallTitle" : "Can I set up a business account to purchase Tokens?",
+                    "content" : "content"
+                },
+                {
+                    "id": "5",
+                    "smallTitle": "Who can invest with eSTOKK?",
+                    "content": "content"
+                }
+            ]
+        }
+    ]
+}

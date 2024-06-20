@@ -1,0 +1,42 @@
+{"mainTitle":"From creating an account to your first investment. On this page \n  \twe explain step by step how to invest on eSTOKK for the first time.",
+    "_1_step":{
+        "step":1,
+        "title":"Registration",
+        "description":"<p>To begin investing in Real Estate with eSTOKK, you must complete the registration process. Here's how:</p><ul style='list-style-type: circle'><li>Click the <span style='border: 2px solid #10d3c0'>Sign In</span> button located at the top right of our platform.</li><li>A new page will appear with options for both <span style='border: 2px solid #10d3c0'>Login</span> and <span style='border: 2px solid #10d3c0'>Register</span>.</li><li>If you haven't registered yet, please fill in the required fields.</li><li>After registration, you will receive a confirmation email. Please allow up to 3 minutes for the email to arrive.</li><li>If you do not receive the confirmation email, please contact us at <span style=' color: #10d3c0'>infor@eSTOKK.com</span></li><li>Once confirmed, you will be logged in to your account.</li></ul>"
+        },
+    "_2_step":{
+        "step":2,
+        "title":"Upload and ID card",
+        "description":"<p>Before making a purchase on eSTOKK, you must verify your identity. Follow these steps:</p><ul style='list-style-type: circle'><li>Submit a photo or a copy of your identity card to verify your identity.</li><li>We use this information to determine your eligibility to perchase Tokzied properties</li><li>Complete additional fields, including your birth date and address.</li><li>Pass the KYC(Know Your Customer)process, which involves submitting a selfie and uploading an official document like a passport or ID card</li></ul>"
+        },
+    "_3_step":{
+        "step":3,
+        "title":"Choose a \n  \t \tproperty(s) to invest",
+        "description":"We will need crypto wallet to proceed. You have two options:"
+        },
+    "_4_step":{
+        "step":4,
+        "title":"Read the\n  \t \tdocumentation carefully",
+        "description":"<ul style='list-style-type: circle'><li>Click the Invest button to access an overview of available properties.</li><li>Compare properties based on type, return rate, rental contracts, location, and more.</li><li>While we ensure the quality of all listed properties, the final decision is yours.</li></ul>"
+        },
+    "_5_step":{
+        "step":5,
+        "title":"Choose an \n  \t \tinvestment amount",
+        "description":"For each property, review the associated information note carefully. Additionally, review the general and legal conditions related to the property."
+        },
+    "_6_step":{
+        "step":6,
+        "title":"Read & \n  \t \taccept the terms",
+        "description":"<ul style='list-style-type: circle;'><li>You have ther freedom to choose your investment amount, with a minimum of $50. Investments should be made in multiples of $50(the value of one Token)</li><li>There is no maximum limit for your investment amount.</li><li>Be sure to review the general issuance conditions, registration agreement, and the information note associate with your chosen property.</li><li>Find answers to frequently asked questions in our <span style='border: 2px solid #10d3c0'>FAQ</span> section.</li></ul>"
+        },
+    "_7_step":{
+        "step":7,
+        "title":"Pay securely \n  \t \tvia Mollie",
+        "description":"<ul style='list-style-type: circle;'><li>Select your preferred investment amount.</li><li>Follow the secure payment process facilitated by Mollie, our payment service provider.</li><li>The minimum investment amount is 50, and there is no maximum limit.</li></ul>"
+        },
+    "_8_step":{
+        "step":8,
+        "title":"Success!",
+        "description":"<p>If you're successfully completed all the previous steps, congratulation! You are now the proud owner of your new investment portfolio. Here's what to expect:</p><ul style='list-style-type: circle;'><li>Access your investment under <span style='border: 2px solid #10d3c0'>my portfolio</span> on our platform.</li><li>Receive monthly updates for each inestment under the <span style='border: 2px solid #10d3c0'>documentation</span> section.</li><li>Your share of the rental income will be distributed to you on a weekly basis.</li><li>Stay informed with important communications regarding your investments sent to your email.</li></ul>"
+        }
+    }
